@@ -1,0 +1,4 @@
+Prayag Python 20000 20000 False
+Sandhya Python 0 20000 False
+Ruby C# 20000 20000 False
+Mickel C++ 10000 10000 False 50000 0
